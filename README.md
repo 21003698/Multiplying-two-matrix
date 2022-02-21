@@ -1,6 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To find the product of two arrays.
 
 ## ALGORITHM:
 
@@ -41,4 +42,5 @@ print("Product of two arrays is:",product)
 ![](pradeep.png)
 
 ## RESULT:
+Therefore the above code is sucessfully executed to find the product of two arrays.
 
