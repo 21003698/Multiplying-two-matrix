@@ -23,6 +23,8 @@ check and verify the programcheck and verify the program
 
 ## PROGRAM: 
 ~~~
+##Developed by:sandeep challa
+##Registration number:21003698
 import numpy as np
 l1,l2=[],[]
 n=int(input())
